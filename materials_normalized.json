@@ -1,0 +1,950 @@
+{
+  "sla": [
+    {
+      "name": "BEGO\u2122 VarseoSmile\u00ae TriniQ\u00ae Resin",
+      "price": 599,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F8%2F08212024_btq_prints_239-sh-softness_shadow_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Multiple Shades",
+        "Ceramic Filled",
+        "Wear Resistant",
+        "Biocompatible",
+        "Permanent Restorations"
+      ],
+      "normalized_price_per_kg_or_l": 599.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Grey Resin V4.1",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03192025_grey_v_4.1_297_no_shadow_store_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "Fast Printing",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Clear Cast Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F7%2F07182024_clearcast_060-sh-softness_shadow_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "Investment Casting",
+        "Transparent",
+        "High Accuracy"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Fast Model Resin",
+      "price": 79,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03122024_print_silhouettes_025a-sh-standard_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Post-Curing Optional",
+        "High Throughput",
+        "Fast Printing",
+        "High Strength"
+      ],
+      "normalized_price_per_kg_or_l": 79.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Clear Resin V4.1",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fc%2Fl%2Fclear1_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "High Strength",
+        "Transparent",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Clear Resin V5",
+      "price": 79,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F4%2F04022024_clear_v5_silhouette_091_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "High Strength",
+        "Transparent",
+        "High Accuracy",
+        "Fine Details",
+        "Post-Curing Optional"
+      ],
+      "normalized_price_per_kg_or_l": 79.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Black Resin V5",
+      "price": 79,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03122024_print_silhouettes_033-sh-standard_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "High Strength",
+        "High Accuracy",
+        "Fine Details",
+        "Post-Curing Optional"
+      ],
+      "normalized_price_per_kg_or_l": 79.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Temporary CB Resin 1 kg (0.7 L)",
+      "price": 499,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Ft%2Fe%2Ftemp_cb_bleach_thumb-2_store_3.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Multiple Shades",
+        "High Strength",
+        "Ceramic Filled",
+        "Biocompatible",
+        "Temporary Restorations"
+      ],
+      "normalized_price_per_kg_or_l": 499.0,
+      "quantity": 1.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Denture Base Resin",
+      "price": 299,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F5%2F05282024_pt_mixed_048-sh-standard.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Multiple Shades",
+        "Denture Bases",
+        "Wear Resistant",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 299.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Flame Retardant Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Ff%2Fl%2Fflame_retardant_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Heat Resistant",
+        "Robust",
+        "Low Creep",
+        "UL94 V0 Certified"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Color Base Resin",
+      "price": 79,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fc%2Fo%2Fcolor-kit_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "Custom Colors",
+        "Matte"
+      ],
+      "normalized_price_per_kg_or_l": 79.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "PU Rigid 650 Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fp%2Fu%2Fpu_r650.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Polyurethane",
+        "Complex Workflow",
+        "Wear Resistant",
+        "Impact Resistant",
+        "UV Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Elastic 50A Resin V2",
+      "price": 199,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F1%2F01232024_elastic_50a_x7_255-sh-standard_a.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Translucent",
+        "Elastomeric",
+        "Soft Silicone-like"
+      ],
+      "normalized_price_per_kg_or_l": 199.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed Elastic 50A Resin",
+      "price": 349,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fi%2Fbiomed_elastic_v1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Elastomeric",
+        "Soft Silicone-like",
+        "Biocompatible",
+        "Translucent"
+      ],
+      "normalized_price_per_kg_or_l": 349.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Dental LT Comfort Resin",
+      "price": 429,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fd%2Fe%2Fdental_lt_comfort_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Flexible",
+        "Wear Resistant",
+        "Biocompatible",
+        "Flexible Splints and Occlusal Guards",
+        "Transparent"
+      ],
+      "normalized_price_per_kg_or_l": 429.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Silicone 40A Resin",
+      "price": 349,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fs%2Fi%2Fsilicone_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Elastomeric",
+        "Soft",
+        "100% Silicone",
+        "Wear Resistant",
+        "Tear Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 349.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed White Resin",
+      "price": 279,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fi%2Fbiomed_white_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Sterilizable",
+        "Matte",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 279.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed Amber Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fi%2Fbiomed_amber2_6.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Translucent",
+        "Sterilizable",
+        "Biocompatible",
+        "Ultra High Strength"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "ESD Resin",
+      "price": 229,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F1%2F1%2F11252021_esd_resin_139_copy_s.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "ABS-Like",
+        "ESD-Safe",
+        "Robust"
+      ],
+      "normalized_price_per_kg_or_l": 229.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Castable Wax Resin",
+      "price": 299,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fc%2Fa%2Fcastable_wax_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "Wax Filled",
+        "Investment Casting"
+      ],
+      "normalized_price_per_kg_or_l": 299.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed Clear Resin",
+      "price": 349,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fi%2Fbiomed_clear_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Sterilizable",
+        "Robust",
+        "High Strength",
+        "Biocompatible",
+        "Transparent"
+      ],
+      "normalized_price_per_kg_or_l": 349.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Flexible 80A Resin",
+      "price": 199,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Ff%2Fl%2Fflexible_80a_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Translucent",
+        "Hard Rubber-Like",
+        "Elastomeric",
+        "Wear Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 199.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Rigid 4000 Resin",
+      "price": 229,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fr%2Fi%2Frigid4000_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "High Strength",
+        "Glass Filled",
+        "Ultra Stiff",
+        "PEEK-Like",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 229.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Grey Pro Resin",
+      "price": 199,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fg%2Fr%2Fgrey_pro1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "Matte",
+        "Low Creep",
+        "High Strength"
+      ],
+      "normalized_price_per_kg_or_l": 199.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Black Resin V4",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fl%2Fblack_v4_photo.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "High Strength",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Tough 2000 Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Ft%2Fo%2Ftough2000_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "ABS-Like",
+        "High Strength",
+        "Wear Resistant",
+        "Impact Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Clear Resin V4",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fc%2Fl%2Fclear_v4_photo.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "High Strength",
+        "Transparent",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Grey Resin V4",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fg%2Fr%2Fgrey1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "Fast Printing",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "White Resin V4.1",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F1%2F1%2F11082017_medical_171_1_.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Fine Details",
+        "High Strength",
+        "High Accuracy"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Tough 1500 Resin V2",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03042025_tough_1500_v2_522_no_shadow_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Pliable",
+        "PP-Like",
+        "Wear Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "White Resin V5",
+      "price": 79,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03122024_print_silhouettes_009-sh-standard_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "High Strength",
+        "High Accuracy",
+        "Fine Details",
+        "Post-Curing Optional"
+      ],
+      "normalized_price_per_kg_or_l": 79.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Grey Resin V5",
+      "price": 79,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03122024_print_silhouettes_020a-sh-standard_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "Fast Printing",
+        "High Accuracy",
+        "Fine Details",
+        "Post-Curing Optional"
+      ],
+      "normalized_price_per_kg_or_l": 79.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Black Resin V4.1",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fl%2Fblack_1_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "High Strength",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Precision Model Resin",
+      "price": 129,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F3%2F03192024_dsl_quad_x7_380-sh-standard.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Matte",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 129.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Permanent Crown Resin 1kg (0.7 L)",
+      "price": 790,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fp%2Fe%2Fpermanent_crown_export_whole_artboard__2.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Multiple Shades",
+        "High Strength",
+        "Ceramic Filled",
+        "Biocompatible",
+        "Permanent Restorations"
+      ],
+      "normalized_price_per_kg_or_l": 790.0,
+      "quantity": 1.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Premium Teeth Resin",
+      "price": 550,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F1%2F1%2F11282023_premiumteeth_153-sh-standard_copy_2_1_store_1_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Multiple Shades",
+        "Wear Resistant",
+        "Denture Teeth",
+        "Biocompatible",
+        "Temporary Full-Arch Implant-Supported Restorations (All-on-X)"
+      ],
+      "normalized_price_per_kg_or_l": 550.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Alumina 4N Resin",
+      "price": 1,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F7%2F07202023_alumina_4n_127-sh-standard_store_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Heat Resistant",
+        "Complex Workflow",
+        "Ultra Stiff",
+        "Ultra High Strength",
+        "Ceramic"
+      ],
+      "normalized_price_per_kg_or_l": 1.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "PU Rigid 1000 Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fp%2Fu%2Fpu_r1000.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Polyurethane",
+        "Complex Workflow",
+        "Wear Resistant",
+        "Impact Resistant",
+        "UV Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Rigid 10K Resin",
+      "price": 299,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fr%2Fi%2Frigid_10k_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Heat Resistant",
+        "High Strength",
+        "Glass Filled",
+        "Ultra Stiff",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 299.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed Flex 80A Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F9%2F09082023_bio_flex_082-sh-standard-recovered_store.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Translucent",
+        "Elastomeric",
+        "Hard Rubber-Like",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "IBT Flex Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fi%2Fb%2Fibt_flex_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Elastomeric",
+        "Biocompatible",
+        "Indirect Bonding Trays"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed Durable Resin",
+      "price": 429,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fi%2Fbiomed_durable_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Biocompatible",
+        "Impact Resistant",
+        "Wear Resistant",
+        "Transparent"
+      ],
+      "normalized_price_per_kg_or_l": 429.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "BioMed Black Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fb%2Fi%2Fbiomed_black_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Sterilizable",
+        "Matte",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Castable Wax 40 Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fc%2Fw%2Fcw40_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "Wax Filled",
+        "Investment Casting"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Dental LT Clear V2 Resin",
+      "price": 349,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fd%2Fe%2Fdental_lt_clearv2_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Robust",
+        "Wear Resistant",
+        "Biocompatible",
+        "Hard Splints and Occlusal Guards",
+        "Transparent"
+      ],
+      "normalized_price_per_kg_or_l": 349.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Custom Tray Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fc%2Fu%2Fcustom_tray_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Custom Impression Trays",
+        "Biocompatible",
+        "Translucent"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Surgical Guide Resin",
+      "price": 249,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fs%2Fu%2Fsurgical_guide_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Sterilizable",
+        "Translucent",
+        "Biocompatible",
+        "Surgical Guides"
+      ],
+      "normalized_price_per_kg_or_l": 249.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Durable Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fd%2Fu%2Fdurable_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Pliable",
+        "Low Friction",
+        "Wear Resistant",
+        "Impact Resistant",
+        "PE-Like"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "High Temp Resin",
+      "price": 199,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fh%2Fi%2Fhigh_temp_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Translucent",
+        "Fine Details",
+        "Heat Resistant",
+        "Ultra Stiff"
+      ],
+      "normalized_price_per_kg_or_l": 199.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Tough 1500 Resin V1",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Ft%2Fo%2Ftough-1500-1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "PP-Like",
+        "Pliable",
+        "Wear Resistant",
+        "Impact Resistant",
+        "Skin Contact"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Model V2 Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fm%2Fo%2Fmodel_v2.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Matte",
+        "Fine Details",
+        "High Accuracy"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "White Resin V4",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fw%2Fh%2Fwhite_1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Stiff & Strong",
+        "Matte",
+        "High Strength",
+        "High Accuracy",
+        "Fine Details"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Model Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fm%2Fo%2Fmodel1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "Matte",
+        "Fast Printing",
+        "High Accuracy"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    },
+    {
+      "name": "Draft Resin",
+      "price": 149,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fd%2Fr%2Fdraft1.png&w=828&q=75",
+      "tags": [
+        "SLA",
+        "Fine Details",
+        "High Accuracy",
+        "High Throughput",
+        "Fast Printing"
+      ],
+      "normalized_price_per_kg_or_l": 149.0,
+      "quantity": 1.0,
+      "unit": "unknown"
+    }
+  ],
+  "sls": [
+    {
+      "name": "Nylon 12 White Powder 10 kg",
+      "price": 999,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fn%2Fy%2Fnylon_12_white_powder_10kg_product_shadow_store.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "Robust",
+        "High Strength",
+        "Wear Resistant",
+        "UV Resistant",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 99.9,
+      "quantity": 10.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Nylon 11 CF Powder 6 kg",
+      "price": 999,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F2%2F02042022_nylon_jugs_043_sh_with_frnt_1_copy_store_1_.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "Heat Resistant",
+        "Carbon Fiber Filled",
+        "Ultra Stiff",
+        "Impact Resistant",
+        "Ultra High Strength"
+      ],
+      "normalized_price_per_kg_or_l": 166.5,
+      "quantity": 6.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Nylon 11 Powder 6 kg",
+      "price": 699,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F2%2F02042022_nylon_11_jugs_043_sh_with_frnt_1.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "High Strength",
+        "Wear Resistant",
+        "Impact Resistant",
+        "UV Resistant",
+        "Skin Contact"
+      ],
+      "normalized_price_per_kg_or_l": 116.5,
+      "quantity": 6.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Nylon 12 Tough Powder 10 kg",
+      "price": 999,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2Fn%2Fy%2Fnylon_12_tough_powder_10kg_product_shadow_store.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "Robust",
+        "High Strength",
+        "Wear Resistant",
+        "UV Resistant",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 99.9,
+      "quantity": 10.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Nylon 12 Powder 10 kg",
+      "price": 999,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F7%2F07102024_nylon_12_10kg_bag_shadow_032_store.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "Robust",
+        "High Strength",
+        "Wear Resistant",
+        "UV Resistant",
+        "Biocompatible"
+      ],
+      "normalized_price_per_kg_or_l": 99.9,
+      "quantity": 10.0,
+      "unit": "kg"
+    },
+    {
+      "name": "TPU 90A Powder 6 kg",
+      "price": 799,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F1%2F01172023_tpu_jug_labels_store.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "Elastomeric",
+        "Impact Resistant",
+        "Tear Resistant",
+        "Skin Contact",
+        "Hard Rubber-Like"
+      ],
+      "normalized_price_per_kg_or_l": 133.17,
+      "quantity": 6.0,
+      "unit": "kg"
+    },
+    {
+      "name": "Nylon 12 GF Powder 6 kg",
+      "price": 649,
+      "image_url": "/_next/image/?url=https%3A%2F%2Fformlabs.com%2Fcheckout-media%2Fcatalog%2Fproduct%2F400x400%2F0%2F2%2F02042022_nylon_12_gf_jugs_043_sh_with_frnt.png&w=828&q=75",
+      "tags": [
+        "SLS",
+        "Stiff & Strong",
+        "Heat Resistant",
+        "Low Creep",
+        "Glass Filled",
+        "UV Resistant"
+      ],
+      "normalized_price_per_kg_or_l": 108.17,
+      "quantity": 6.0,
+      "unit": "kg"
+    }
+  ]
+}
