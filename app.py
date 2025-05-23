@@ -366,7 +366,7 @@ def landing_page():
         launch = st.button("🚀 Start Your Instant Quote", key="launch", help="Begin your quote", use_container_width=True)
         if launch:
             st.session_state.step = 1
-            st.experimental_rerun()
+            st.rerun()
     return False
 
 def is_sla(material):
@@ -391,7 +391,7 @@ def main():
         cta = landing_page()
         if cta:
             st.session_state.step = 1
-            st.experimental_rerun()
+            st.rerun()
         return
     
     # Step 1: File Upload
@@ -420,7 +420,7 @@ def main():
                 st.success(f"STL Volume: {volume:.2f} cm³")
                 if st.button("Continue to Material Selection"):
                     st.session_state.step = 2
-                    st.experimental_rerun()
+                    st.rerun()
             except Exception as e:
                 st.error(str(e))
             finally:
@@ -443,7 +443,7 @@ def main():
                 'volume': st.session_state.volume,
                 'quantity': 1
             })
-            st.experimental_rerun()
+            st.rerun()
         sla_tab, sls_tab = st.tabs(["SLA Materials", "SLS Materials"])
         with sla_tab:
             for material in sla_materials:
@@ -527,7 +527,7 @@ def main():
                 # Remove the part and its support row (if present)
                 # Find all line_items with item_idx == delete_idx
                 st.session_state['quote_items'].pop(delete_idx)
-                st.experimental_rerun()
+                st.rerun()
         else:
             st.info("No parts in quote. Please add a part.")
         # PDF generation for all line items
@@ -581,14 +581,14 @@ def main():
             st.session_state.step = 1
             st.session_state.volume = None
             st.session_state.selected_material = None
-            st.experimental_rerun()
+            st.rerun()
         # Start new quote (clear all)
         if st.button("Start New Quote"):
             st.session_state.step = 1
             st.session_state.volume = None
             st.session_state.selected_material = None
             st.session_state['quote_items'] = []
-            st.experimental_rerun()
+            st.rerun()
 
 if __name__ == "__main__":
     main() 
