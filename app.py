@@ -250,7 +250,7 @@ def create_material_card(material, select_callback=None, button_key=None):
         </div>
     """, unsafe_allow_html=True)
     # Button inside card
-    selected = st.button(f"Select {material['name']}", key=button_key, use_container_width=True)
+    selected = st.button(f"Select {material['name']}", key=button_key, width="stretch")
     if selected and select_callback:
         select_callback(material)
     st.markdown("</div>", unsafe_allow_html=True)
@@ -363,7 +363,7 @@ def landing_page():
             """,
             unsafe_allow_html=True,
         )
-        launch = st.button("🚀 Start Your Instant Quote", key="launch", help="Begin your quote", use_container_width=True)
+        launch = st.button("🚀 Start Your Instant Quote", key="launch", help="Begin your quote", width="stretch")
         if launch:
             st.session_state.step = 1
             st.rerun()
