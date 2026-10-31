@@ -2,5 +2,5 @@ streamlit==1.66.1
 numpy==1.26.4
 trimesh==4.0.5
 reportlab==4.4.1
-pillow>=13.0.0,<14
+pillow==13.0.0
 scipy>=1.7.3,<2.0
